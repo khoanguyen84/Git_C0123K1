@@ -8,3 +8,21 @@
     border-radius: 50%;
     box-shadow: none;
 }
+
+.container{
+    min-width: 920px;
+}
+
+.row{
+    width: 100%;
+}
+
+.btn{
+    border: none;
+    outline: none;
+}
+
+.btn-success{
+    background-color: green;
+    color: white;
+}
