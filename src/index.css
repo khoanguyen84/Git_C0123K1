@@ -5,6 +5,7 @@
     font-family: 'Courier New', Courier, monospace;
     background-color: aliceblue;
     color: black;
+    border-radius: 50%;
 }
 
 .container{
