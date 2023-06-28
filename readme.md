@@ -11,4 +11,4 @@
 
 2. Lấy mã nguồn mới về
 + Bước 1: kiểm tra ```git fetch ```
-+ Bước 2: lấy mã nguồn ```git pull -u origin <branch_name> ``` ví dụ: ```git pull -u origin development ```
++ Bước 2: lấy mã nguồn ```git pull origin <branch_name> ``` ví dụ: ```git pull origin development ```
