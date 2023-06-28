@@ -6,3 +6,16 @@
     background-color: aliceblue;
     color: black;
 }
+
+.container{
+    min-width: 920px;
+}
+
+.row{
+    width: 100%;
+}
+
+.btn{
+    border: none;
+    outline: none;
+}
