@@ -26,3 +26,8 @@
     background-color: green;
     color: white;
 }
+
+.btn-success:hover{
+    background-color: darkgreen;
+    color: white;
+}
